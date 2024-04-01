@@ -95,15 +95,9 @@ print(f"Accuracy: {accuracy}")
 
 Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-## License
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Credits
 
-This project was created by Minata Coulibaly. Special thanks to the Kaggle Titanic dataset for providing the data.
+Special thanks to the Kaggle Titanic dataset for providing the data.
 
 ## Contact
 
