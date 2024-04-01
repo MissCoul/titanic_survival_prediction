@@ -2,6 +2,33 @@
 
 This project aims to predict the survival of passengers aboard the Titanic using machine learning techniques.
 
+## Dataset Information
+
+The Titanic dataset used in this project provides information about passengers aboard the Titanic, including their age, gender, ticket class, cabin, port of embarkation, and survival status.
+
+- **Size**: The dataset consists of two files:
+  - `train.csv`: Training dataset with 891 samples (61.19 kB).
+  - `test.csv`: Test dataset with 418 samples (28.63 kB).
+
+- **Format**: Both datasets are provided in CSV format.
+
+- **Features**: The dataset includes the following features:
+  - PassengerId: Unique identifier for each passenger
+  - Survived: Survival status (0 = No, 1 = Yes)
+  - Pclass: Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)
+  - Name: Passenger's name
+  - Sex: Passenger's gender
+  - Age: Passenger's age in years
+  - SibSp: Number of siblings/spouses aboard
+  - Parch: Number of parents/children aboard
+  - Ticket: Ticket number
+  - Fare: Passenger's fare
+  - Cabin: Cabin number
+  - Embarked: Port of embarkation (C = Cherbourg, Q = Queenstown, S = Southampton)
+
+For more information about the dataset, refer to the Kaggle Titanic dataset page: [Titanic: Machine Learning from Disaster](https://www.kaggle.com/c/titanic/data).
+
+
 ## Description
 
 The code provided in this repository analyzes the Titanic dataset, which includes information about passengers such as their age, gender, ticket class, cabin, and port of embarkation. The goal is to build machine learning models that predict whether a passenger survived the Titanic disaster.
